@@ -71,15 +71,17 @@ ODB(c++版封装数据库操作工具)管理及映射用户和token数据表，�
 
 ### 熟悉软件开发流程，具有良好的编码规范
 
-熟练使用c/c++，熟悉STL，了解shell/python基本语法
+熟练使用c/c++/java，了解shell/python基本语法
 
-理解TCP/IP协议，并具备linux下的网络服务编程和多线程经验
+熟悉k8s/prometheus/argo，有微服务的开发、部署、运维经验
 
 熟悉linux常用指令，掌握网络、I/O、cpu、内存等问题排查手段，能独立解决线上问题
 
-了解redis/zookeeper/kafka/pgsql等常见微服务基础组件
+熟悉常见的机器/深度学习流程，建过模预过测，对推荐/广告/搜索算法建模有一定的了解
 
-了解docker/k8s，有微服务的开发、部署、运维经验
+理解TCP/IP协议，并具备linux下的网络服务编程和多线程经验
+
+了解redis/zookeeper/kafka/pgsql等常见微服务基础组件
 
 了解常见的rtsp/rtmp/hls/http-flv流媒体协议
 
