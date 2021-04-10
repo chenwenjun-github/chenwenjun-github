@@ -21,7 +21,7 @@ echo -n 'MTgxNTY1NDc3NjM=' | base64 -d
 - 🏢 I'm currently working at **machine learning low code platfrom**
 -   :hammer_and_pick: ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)/ ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)/ ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell), a little bit  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)/ ![Go](https://img.shields.io/badge/-Go-00599C?style=plastic&logo=go)
 - 🚀 I use daily: Kubernetes/Prometheus/Mysql/Redis/Nginx/Kubeflow
--   :seedling: Preparing for buy house
+-   :seedling: Preparing for study
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 
