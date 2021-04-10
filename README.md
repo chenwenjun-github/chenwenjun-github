@@ -18,12 +18,14 @@ echo -n 'MTgxNTY1NDc3NjM=' | base64 -d
 - 🏢 I'm currently working at **mechine learning low code platfrom**
 -   :hammer_and_pick: ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)/ ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)/ ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell), a little bit  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)/ ![Go](https://img.shields.io/badge/-Go-00599C?style=plastic&logo=go)
 - 🚀 I use daily:
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes?style=plastic&logo=kubernetes)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=plastic&logo=mysql)
+  ![Redis](https://img.shields.io/badge/-Redis-336791?style=plastic&logo=redis)
 -   :seedling: Preparing for buy house
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
