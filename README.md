@@ -1,3 +1,5 @@
+## Hey, welcome you coming here! :wave:
+
 Wechat ID
 
 ```
@@ -13,7 +15,30 @@ echo -n 'MTgxNTY1NDc3NjM=' | base64 -d
 	<a href="https://komarev.com/ghpvc/?username=chenwenjun-github"><img src="https://komarev.com/ghpvc/?username=chenwenjun-github" alt="profile"></a>
 </p>
 
-- 🔭 I’m currently working on improving myself.
-- 🌱 I’m currently learning everything.
-- 🤔 I’m looking for help with nothing.
-- 💬 Ask me about everything about coding.
+-   :hammer_and_pick: C++/java, a little bit Python/Go
+- 🚀 I use daily:
+  ![C++](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![C++](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![C++](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+-   :pencil2: Arch Linux / VS Code / VS / IDEA
+-   :seedling: Preparing for buy house
+- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+
+
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:waka-->
+```text
+Markdown   2 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.61 % 
+VimL       2 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   31.86 % 
+Bash       56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Other      44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Text       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+<!--END_SECTION:waka-->
+
+---
