@@ -1,4 +1,4 @@
-## Hey, welcome you coming here! :wave:
+## Hey, welcome you coming here! :wave: [![ ](https://cfrating.ihcr.top/?user=chenwenjun&style=flat-square)](https://leetcode-cn.com/u/chenwenjun/)
 
 Wechat ID
 
