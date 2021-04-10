@@ -1,16 +1,19 @@
-### Hi there 👋
+Wechat ID
 
-<!--
-**chenwenjun-github/chenwenjun-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+echo -n 'MTgxNTY1NDc3NjM=' | base64 -d
+```
 
-Here are some ideas to get you started:
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenwenjun-github&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000" width="400" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+	<a href="https://blog.csdn.net/chen_wen_jun"><img src="https://img.shields.io/badge/blog-200k%20pageviews-ffffff.svg?style=social" alt="blog"></a>
+</p>
+<p align="left">
+	<a href="https://komarev.com/ghpvc/?username=chenwenjun-github"><img src="https://komarev.com/ghpvc/?username=chenwenjun-github" alt="profile"></a>
+</p>
+
+- 🔭 I’m currently working on improving myself.
+- 🌱 I’m currently learning everything.
+- 🤔 I’m looking for help with nothing.
+- 💬 Ask me about everything about coding.
