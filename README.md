@@ -12,7 +12,7 @@ echo -n 'MTgxNTY1NDc3NjM=' | base64 -d
 	<a href="https://blog.csdn.net/chen_wen_jun"><img src="https://img.shields.io/badge/blog-2k%20pageviews-ffffff.svg?style=social" alt="blog"></a>
 </p>
 <p align="left">
-	<a href="https://www.wondercv.com/cvs/Bfp1kno/editor"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-%E4%B8%AD%E6%96%87-blue.svg" alt="Resume in Chinese"></a>
+	<a href="./resume.md"><img src="https://img.shields.io/badge/%E7%AE%80%E5%8E%86-%E4%B8%AD%E6%96%87-blue.svg" alt="Resume in Chinese"></a>
 </p>
 <p align="left">
 	<a href="https://komarev.com/ghpvc/?username=chenwenjun-github"><img src="https://komarev.com/ghpvc/?username=chenwenjun-github" alt="profile"></a>
